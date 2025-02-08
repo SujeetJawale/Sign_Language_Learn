@@ -2,7 +2,7 @@
 ![BE MY VOICE](https://github.com/user-attachments/assets/5179bcf6-52e8-473e-8619-c34208eefa36)
 
 # Be My Voice 
-### Hackathon - SoCal Tech Week 2024 
+### Hackathon - [SoCal Tech Week 2024](https://www.socaltechweek.com/)
 [DevPost](https://lnkd.in/ducjsZD4)
 
 **Be My Voice** bridges communication gaps with real-time ASL translation, helping individuals with speech disabilities connect, be understood, and confidently pursue their dream careers. We are participating in the **Accessibility Vertical** for SoCal Tech Week 2024. Our mission is to design a program that promotes inclusivity for everyone.
